@@ -1,0 +1,17 @@
+@font-face {
+  font-family: source-sans-pro;
+  src: url(../fonts/SourceSansPro-Regular.ttf);
+}
+
+body {
+    background-color: white;
+}
+
+.title-second {
+    color : #00;
+}
+
+* {
+  font-family: source-sans-pro;
+  color: black;
+}
